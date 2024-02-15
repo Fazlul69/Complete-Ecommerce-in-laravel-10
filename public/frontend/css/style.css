@@ -2045,6 +2045,11 @@ Version:1.0
 /*======================================
    Start Shop Sidebar CSS
 ========================================*/
+.shop-sidebar .single-widget .dropdown-menu{
+	border: none;
+	background-color: #f6f7fb;
+	width: 100%;
+}
 .shop-sidebar .single-widget {
 	margin-top: 30px;
 	background: #F6F7FB;
